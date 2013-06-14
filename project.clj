@@ -1,6 +1,4 @@
 (defproject project-euler "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.4.0"]])
+  :description "Solving problems from http://projecteuler.net"
+  :url "https://github.com/mshytikov/project-euler"
+  :dependencies [[org.clojure/clojure "1.5.1"]])
